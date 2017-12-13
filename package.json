@@ -19,6 +19,10 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "^7.5.1",
-    "prettier-eslint": "^8.2.6"
+    "prettier-eslint": "^8.2.6",
+    "react-autobind": "^1.0.6",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "simpl-schema": "^1.2.2"
   }
 }
